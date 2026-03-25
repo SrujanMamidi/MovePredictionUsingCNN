@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.dll
+*.exe
+*.h5
+*.model
+*.pb
